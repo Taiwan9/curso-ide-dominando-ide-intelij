@@ -11,5 +11,6 @@ public class PrimeiroPrograma {
 
         Gato gato = new Gato();
         System.out.println(gato);
+
     }
 }
